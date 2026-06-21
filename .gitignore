@@ -38,3 +38,4 @@ Thumbs.db
 # Local databases
 *.db
 *.sqlite
+checkkey.ipynb
